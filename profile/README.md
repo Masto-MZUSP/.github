@@ -21,7 +21,7 @@ Nossa pesquisa parte da coleção de mamíferos do MZUSP. A partir de espécimes
 
 <!-- Acrescente uma linha a cada novo repositório. -->
 
-<!-- Os repositórios também podem ser explorados por meio dos *topics* do GitHub, permitindo a consulta de projetos por [tipo](https://github.com/search?q=org%3AMasto-MZUSP+topic%3Aprotocolo&type=repositories) ou [financiamento](https://github.com/search?q=org%3AMasto-MZUSP+topic%3Afapesp-2023-12809-0&type=repositories). -->
+Os repositórios também podem ser explorados por meio dos *topics* do GitHub, permitindo a consulta de projetos por [tipo](https://github.com/search?q=org%3AMasto-MZUSP+topic%3Atutorial&type=repositories) ou [financiamento](https://github.com/search?q=org%3AMasto-MZUSP+topic%3Afapesp-2023-12809-0&type=repositories).
 
 ## Apoio financeiro
 
