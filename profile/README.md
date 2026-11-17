@@ -14,7 +14,7 @@ Nossa pesquisa parte da coleção de mamíferos do MZUSP. A partir de espécimes
 
 | Repositório | Descrição | Responsável |
 | --- | --- | --- |
-| [curad-masto-mzusp](https://github.com/Masto-MZUSP/curad-masto-mzusp) | Procedimentos e curadoria da coleção | Curadoria |
+| [curad-masto-mzusp](https://github.com/Masto-MZUSP/curad-masto-mzusp) 🔒 | Normas, protocolos, modelos e scripts da curadoria da coleção (acesso restrito aos membros da organização) | Curadoria |
 | [bioinfo-masto-mzusp](https://github.com/Masto-MZUSP/bioinfo-masto-mzusp) | Tutoriais de bioinformática | Curadoria |
 | [frmt-masto-mzusp](https://github.com/Masto-MZUSP/frmt-masto-mzusp) | Tutoriais de uso de equipamentos e softwares | Curadoria |
 | [template-masto-mzusp](https://github.com/Masto-MZUSP/template-masto-mzusp) | Modelo para novos repositórios | Maria Clara F. Irumé |
